@@ -1,0 +1,1 @@
+# judge0_minio_setup_file
